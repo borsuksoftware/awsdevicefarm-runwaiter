@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<OutputType>Exe</OutputType>
@@ -8,6 +8,7 @@
 		<Copyright>Borsuk Software</Copyright>
 		<PackageTags>borsuksoftware;aws;devicefarm;awsdevicefarm</PackageTags>
 		<PackAsTool>True</PackAsTool>
+		<PackageIcon>logo.png</PackageIcon>
 	</PropertyGroup>
 
 	<ItemGroup>
