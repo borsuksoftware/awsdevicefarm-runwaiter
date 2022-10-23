@@ -5,7 +5,7 @@
 		<TargetFramework>net6.0</TargetFramework>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<Authors>BorsukSoftware</Authors>
-		<Copyright>Borsuk Software</Copyright>
+		<Copyright>BorsukSoftware</Copyright>
 		<PackageTags>borsuksoftware;aws;devicefarm;awsdevicefarm</PackageTags>
 		<PackAsTool>True</PackAsTool>
 		<PackageIcon>logo.png</PackageIcon>

@@ -165,6 +165,9 @@ Others:
                 }
                 else
                 {
+                    if (lastExecutionStatus != null)
+                        Console.WriteLine();
+
                     Console.Write($" => {testRunObject.Run.Status}");
                     lastExecutionStatus = testRunObject.Run.Status;
                 }
